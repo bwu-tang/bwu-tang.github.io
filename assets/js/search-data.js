@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-started-ms-in-cybersecurity-at-georgia-institute-of-technology",
+          title: 'Started MS in Cybersecurity at Georgia Institute of Technology.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-started-phd-in-cyber-operations-at-dakota-state-university",
+          title: 'Started PhD in cyber operations at Dakota State University.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-my-website-brandon-wu-com-is-live",
+          title: 'My website brandon-wu.com is live.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

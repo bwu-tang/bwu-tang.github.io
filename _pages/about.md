@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-As a security professional and lifelong student, I am interested in employing pragmatic approaches to balance security with usability, elevating organizations above the cybersecurity poverty line, and improving the cybersecurity talent pipeline. 
+As a security professional and lifelong student, I am interested in employing pragmatic approaches to balance security with usability, making cybersecurity accessible to under-resourced groups, and improving the cybersecurity talent pipeline. 
 
 Outside of work and school, I am spending time with my family, enjoying the outdoors, exploring new places, cooking, and tasting delicious foods.

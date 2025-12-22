@@ -101,7 +101,7 @@ ninja.data = [{
         title: 'Work',
         section: 'Socials',
         handler: () => {
-          window.open("www.secondordersecurity.com", "_blank");
+          window.open("https://www.secondordersecurity.com", "_blank");
         },
       },{
       id: 'light-theme',

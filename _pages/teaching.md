@@ -10,7 +10,7 @@ nav_order: 6
 ### Graduate Teaching Assistant
 
 **CS 6238 - Secure Computer Systems (Summer 2025, Fall 2025, Spring 2026)**  
-College of Computing, Georgia Institute of Technology
+College of Computing, Georgia Institute of Technology  
 
 ### Adjunct Professor
 

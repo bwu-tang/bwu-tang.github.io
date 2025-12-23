@@ -27,15 +27,17 @@ latest_posts:
 
 ### What I Do
 
-I’m a cybersecurity practitioner and PhD student studying <a href='https://dsu.edu/academics/colleges/beacom-college/'>Cyber Operations at Dakota State University</a>, with a career spanning technical leadership roles in fintech, cloud computing, and large-scale platform security.  
+I’m a cybersecurity practitioner and PhD student studying <a href='https://dsu.edu/academics/colleges/beacom-college/'>Cyber Operations at Dakota State University</a>, with a career spanning technical leadership roles across fintech, cloud computing, and large-scale platform security.
 
-My professional work has focused on building and operating security programs that strike a pragmatic balance between risk and usability. I’ve developed security strategy and architecture, led security engineering initiatives, and advused executive leadership and boards on risk, regulatory expectations, and long-term security investment. I’ve worked closely with product and engineering teams to improve security outcomes without slowing delivery, particularly in highly regulated and fast-moving environments.
+I focus on building and running security programs that balance real-world risk with usability. Over the years, I’ve designed security strategy and architecture, led engineering initiatives, and advised executive teams and boards on risk, compliance, and long-term security planning. I enjoy working alongside product and engineering teams to improve security outcomes without slowing things down, especially in fast-moving or highly regulated environments.
+
+I also work directly with startups, small and medium-sized businesses, and non-profit organizations to help them grow safely. I partner with teams to understand their security posture, prioritize risks, and implement solutions that protect people and data while letting the organization move quickly. My goal is to make security practical, usable, and sustainable so it supports the mission rather than getting in the way.
 
 ### What I'm Exploring
 
-My academic and research interests focus on applied cyber defense, with an emphasis on translating real-world security challenges into defensible, scalable models. I am particularly interested in developing cost-effective security frameworks for resource-constrained organizations, defining usable security practices, and examining how organizational, economic, and human factors influence security outcomes.  
+My academic and research interests focus on applied cyber defense, with an emphasis on translating real-world security challenges into defensible, scalable models. I am particularly interested in developing cost-effective security frameworks for resource-constrained organizations, defining usable security practices, and examining how organizational, economic, and human factors influence security outcomes. More broadly, my work seeks to bridge industry and academia by grounding theory in real-world operations.  
 
-More broadly, I aim to bridge industry practice and academic research by grounding theory in operational practices. I am also interested in cybersecurity workforce development as a systems problem, examining how the supply of cybersecurity talent can be better matched to organizational demand across different sectors and resource constraints.
+I am also interested in cybersecurity workforce development as a systems problem, examining how the supply of cybersecurity talent can be better matched to organizational demand across different sectors and resource constraints.
 
 ### Outside of Work
 

@@ -29,8 +29,7 @@
       "url": "https://www.block.xyz",
       "startDate": "2022-01",
       "endDate": "",
-      "summary": "Leading cross-organizational initiatives improving information security at scale and providing technical leadership that champions enhanced security across platform infrastructure (network/node/cloud), corporate security, and identity domains.",
-      "highlights": [""]
+      "summary": "Leading cross-organizational initiatives improving information security at scale and providing technical leadership that champions enhanced security across platform infrastructure (network/node/cloud), corporate security, and identity domains."
     },
     {
       "name": "Block",
@@ -38,8 +37,7 @@
       "url": "https://www.block.xyz",
       "startDate": "2021-12",
       "endDate": "2022-07",
-      "summary": "Partnered with product and engineering teams to identify and mitigate technical risks by adopting leading security practices. Led security programs for the (1) Payment Platform business, an open, global financial services platform responsible for moving over $100Bn annually for all Square products, and (2) E-commerce business hosting over 54 million websites and online stores for Square Sellers.",
-      "highlights": [""]
+      "summary": "Partnered with product and engineering teams to identify and mitigate technical risks by adopting leading security practices. Led security programs for the (1) Payment Platform business, an open, global financial services platform responsible for moving over $100Bn annually for all Square products, and (2) E-commerce business hosting over 54 million websites and online stores for Square Sellers."
     },
     {
       "name": "Amazon Web Services (AWS)",
@@ -47,8 +45,7 @@
       "url": "https://www.aws.com",
       "startDate": "2019-09",
       "endDate": "2021-12",
-      "summary": "Advised organizations that enable global financial markets and transactions on building, operating, and securing their workloads in the cloud. Guided security teams in uncovering opportunities to improve their security posture while enabling the business to move faster.",
-      "highlights": [""]
+      "summary": "Advised organizations that enable global financial markets and transactions on building, operating, and securing their workloads in the cloud. Guided security teams in uncovering opportunities to improve their security posture while enabling the business to move faster."
     },
     {
       "name": "WeightWatchers",
@@ -56,8 +53,7 @@
       "url": "https://www.weightwatchers.com",
       "startDate": "2018-01",
       "endDate": "2019-09",
-      "summary": "Transformed cybersecurity program from technology compliance focus to proactive and risk adjusted approaches to brand protection through establishment of governance, risk, and compliance (GRC), cyber engagement, product / application security, and security engineering & operations capabilities. Advised senior management and board of directors on organizational cybersecurity posture, industry trends, and proactive measures for continuous improvement.",
-      "highlights": [""]
+      "summary": "Transformed cybersecurity program from technology compliance focus to proactive and risk adjusted approaches to brand protection through establishment of governance, risk, and compliance (GRC), cyber engagement, product / application security, and security engineering & operations capabilities. Advised senior management and board of directors on organizational cybersecurity posture, industry trends, and proactive measures for continuous improvement."
     },
     {
       "name": "Betterment",
@@ -65,8 +61,7 @@
       "url": "https://www.betterment.com",
       "startDate": "2015-10",
       "endDate": "2018-01",
-      "summary": "Developed security strategy, architecture, and operations for largest independent online financial advisor; an SEC registered investment advisor, and FINRA registered broker-dealer with $13 billion assets under management (AUM). Primary contact for regulators and external auditors during cybersecurity examinations. Provided regular updates on risk posture to board of directors and executive management.",
-      "highlights": [""]
+      "summary": "Developed security strategy, architecture, and operations for largest independent online financial advisor; an SEC registered investment advisor, and FINRA registered broker-dealer with $13 billion assets under management (AUM). Primary contact for regulators and external auditors during cybersecurity examinations. Provided regular updates on risk posture to board of directors and executive management."
     }
   ],
   "education": [
@@ -77,9 +72,7 @@
       "area": "Cyber Operations",
       "studyType": "PhD",
       "startDate": "2025-08",
-      "endDate": "",
-      "score": "",
-      "courses": [""]
+      "endDate": ""
     },
     {
       "institution": "Georgia Institute of Technology",
@@ -88,9 +81,7 @@
       "area": "Cybersecurity",
       "studyType": "MS",
       "startDate": "2024-01",
-      "endDate": "",
-      "score": "",
-      "courses": [""]
+      "endDate": ""
     },
     {
       "institution": "New York University",
@@ -99,9 +90,7 @@
       "area": "Business Administration",
       "studyType": "MBA",
       "startDate": "2008-09",
-      "endDate": "2011-05",
-      "score": "",
-      "courses": [""]
+      "endDate": "2011-05"
     },
     {
       "institution": "Binghamton University",
@@ -110,9 +99,7 @@
       "area": "Computer Science",
       "studyType": "BS",
       "startDate": "2001-09",
-      "endDate": "2005-05",
-      "score": "",
-      "courses": [""]
+      "endDate": "2005-05"
     }
   ],
   "certificates": [
@@ -120,29 +107,25 @@
       "name": "Certified Cloud Security Professional",
       "date": "2023",
       "issuer": "ISC2",
-      "url": "https://isc2.org",
-      "icon": ""
+      "url": "https://isc2.org"
     },
     {
       "name": "Certified Secure Software Lifecycle Professional",
       "date": "2023",
       "issuer": "ISC2",
-      "url": "https://isc2.org",
-      "icon": ""
+      "url": "https://isc2.org"
     },
     {
       "name": "GIAC Certified Incident Handler (GCIH)",
       "date": "2018",
       "issuer": "SANS Institute",
-      "url": "https://sans.org",
-      "icon": ""
+      "url": "https://sans.org"
     },
     {
       "name": "Certified Information Systems Security Professional (CISSP)",
       "date": "2012",
       "issuer": "ISC2",
-      "url": "https://isc2.org",
-      "icon": ""
+      "url": "https://isc2.org"
     }
   ]
 }

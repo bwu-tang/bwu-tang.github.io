@@ -136,7 +136,8 @@
       "issuer": "SANS Institute",
       "url": "https://sans.org",
       "icon": ""
-    }{
+    },
+    {
       "name": "Certified Information Systems Security Professional (CISSP)",
       "date": "2012",
       "issuer": "ISC2",

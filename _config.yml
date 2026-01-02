@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Brandon Wu's small personal, simple space on the web.
 footer_text: 
-keywords: brandon-wu, personal-site # add your own keywords or leave empty
+keywords: brandon-wu, cybersecurity, consulting, academic, personal-site # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: BW_thumb.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

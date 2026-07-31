@@ -9,7 +9,7 @@ nav_order: 6
 
 ### Georgia Institute of Technology, College of Computing
 
-**CS 6238 - Secure Computer Systems** (Summer 2025, Fall 2025, Spring 2026)  
+**CS 6238 - Secure Computer Systems** (Summer 2025, Fall 2025, Spring 2026, Summer 2026)  
 **Graduate Teaching Assistant**  
 Graduate-level course focused on the design and operation of secure operating systems and databases to facilitate the development of secure applications. Topics included design principles of a trusted computing base, memory protection, authentication and access control, and distributed systems security. 
 

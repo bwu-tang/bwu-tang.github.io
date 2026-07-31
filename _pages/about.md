@@ -34,7 +34,9 @@ I also work directly with startups, small and medium-sized businesses, and non-p
 
 ## What I'm Exploring
 
-My academic and research interests focus on applied cyber defense, with an emphasis on translating real-world security challenges into defensible, scalable models. I am particularly interested in developing cost-effective security frameworks for resource-constrained organizations, defining usable security practices, and examining how organizational, economic, and human factors influence security outcomes. More broadly, my work seeks to bridge industry and academia by grounding theory in real-world operations.  
+My academic and research interests focus on applied cyber defense, with an emphasis on translating real-world security challenges into defensible, scalable models. I am particularly interested in developing cost-effective security frameworks for resource-constrained organizations, defining usable security practices, and examining how organizational, economic, and human factors influence security outcomes. More broadly, my work seeks to bridge industry and academia by grounding theory in real-world operations.
+
+I am currently exploring npm supply chain security as a possible research direction, specifically whether security policies derived from a package's legitimate access profile, the specific files, network destinations, and processes it touches before it is compromised, can contain real-world malicious behavior more effectively than traditional syscall-level enforcement alone. Using documented npm compromises as case studies, this work asks a practical question: can fine-grained containment policies be generated automatically from how a package already behaves, rather than requiring developers to hand-author security rules for every dependency they install.
 
 I am also interested in cybersecurity workforce development as a systems problem, examining how the supply of cybersecurity talent can be better matched to organizational demand across different sectors and resource constraints.
 

@@ -24,12 +24,20 @@
   },
   "work": [
     {
+      "name": "Second Order Security",
+      "position": "Founder and Principal Consultant",
+      "url": "https://secondordersecurity.com",
+      "startDate": "2022-01",
+      "endDate": "2026-02",
+      "summary": "Helping startups, small and mid-sized businesses, and mission-driven organizations grow with usable security practices (full-time Feb 2026). Work alongside product and engineering teams to help them understand security posture, make risk adjusted decisions, and deliver secure products and services. Enabling teams move fast, securely."
+    },
+    {
       "name": "Block",
       "position": "Staff Security Engineer",
       "url": "https://www.block.xyz",
-      "startDate": "2022-01",
+      "startDate": "2021-10",
       "endDate": "",
-      "summary": "Leading cross-organizational initiatives to improve information security at scale and provide technical leadership across platform infrastructure (network, compute, cloud), corporate security, and identity domains, with a focus on aligning security priorities to business and delivery needs."
+      "summary": "Led cross-organizational initiatives to improve information security at scale and provide technical leadership across platform infrastructure (network, compute, cloud), corporate security, and identity domains, with a focus on aligning security priorities to business and delivery needs."
     },
     {
       "name": "Block",
@@ -81,7 +89,7 @@
       "area": "Cybersecurity",
       "studyType": "MS",
       "startDate": "2024-01",
-      "endDate": ""
+      "endDate": "2026-08"
     },
     {
       "institution": "New York University",

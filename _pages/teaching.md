@@ -9,11 +9,15 @@ nav_order: 6
 
 ### Georgia Institute of Technology, College of Computing
 
-**CS 6238 - Secure Computer Systems** (Summer 2025, Fall 2025, Spring 2026, Summer 2026)  
+**CS 6238 - Secure Computer Systems** (Summer 2025, Fall 2025, Spring 2026, Summer 2026, Fall 2026)  
 **Graduate Teaching Assistant**  
 Graduate-level course focused on the design and operation of secure operating systems and databases to facilitate the development of secure applications. Topics included design principles of a trusted computing base, memory protection, authentication and access control, and distributed systems security. 
 
 ### William Paterson University, Department of Computer Science
+
+**CS 3660 - Fundamentals of Information Assurance and Security** (Fall 2026)  
+**Adjunct Professor**  
+This course introduces the fundamental theories and practices of information assurance and security. Topics include fundamentals of security principles, basic cryptography, security management, risk assessment, operations and physical security, software and network security, as well as ethical and legal issues.
 
 **CS 2350 - Fundamentals of Computer Hardware** (Spring 2024)  
 **Adjunct Professor**  
